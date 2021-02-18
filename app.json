@@ -1,19 +1,20 @@
 {
-    "name": "Wa bot",
-    "description": "Wa Heroku"
-    "keywords": [
-      "telegram",
-      "mirror",
-      "googledrive"
-    ],
-    "repository": "https://github.com/CrysTalesiaS/whatsapp-bot-1"
-    "env": {
-     "limitCount": {
-      "description": "idk",
-      "value": "10",
-      "required": true
-    },
-    "ownerNumber": {
-     "description": "nomor wa",
-     "value": "",
+  "name": "Wa bot",
+  "description": "Wa Heroku",
+  "logo": "",
+  "keywords": [
+    "telegram",
+    "mirror",
+    "googledrive"
+  ],
+  "repository": "https://github.com/CrysTalesiaS/whatsapp-bot-1"
+  "env": {
+    "limitCount": {
+     "description": "idk",
+     "value": "10",
      "required": true
+   },
+   "ownerNumber": {
+    "description": "nomor wa",
+    "value": "",
+    "required": true
