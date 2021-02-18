@@ -57,6 +57,9 @@
 > git clone https://github.com/IndonesianDev/whatsapp-bot
 > cd whatsapp-bot
 ```
+deploy heroku :
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CrysTalesiaS/whatsapp-bot-1)
+
 
 ## ✍️ Edit filenya
 Edit value yang diperlukan di `settings/setting.json`.
