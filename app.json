@@ -1,23 +1,24 @@
 {
-  "name": "Wa bot",
-  "description": "Wa Heroku",
-  "logo": "http://piyobot.000webhostapp.com/822161.png",
-  "keywords": [
-    "telegram",
-    "mirror",
-    "googledrive"
-  ],
-  "repository": "https://github.com/CrysTalesiaS/whatsapp-bot-1",
-  "website": "https://github.com/CrysTalesiaS/whatsapp-bot-1",
-  "success_url": "/welcome",
-  "stack": "container",
-  "env": {
-    "limitCount": {
-     "description": "idk",
-     "value": "10",
-     "required": true
-  },
-  "ownerNumber": {
-   "description": "nomor wa",
-   "value": "",
-   "required": true
+       "name": "Wa bot",
+       "description": "Wa Heroku",
+       "logo": "http://piyobot.000webhostapp.com/822161.png",
+       "keywords": [
+        "telegram",
+        "mirror",
+        "googledrive"
+      ],
+      "repository": "https://github.com/CrysTalesiaS/whatsapp-bot-1",
+      "website": "https://github.com/CrysTalesiaS/whatsapp-bot-1",
+      "success_url": "/welcome",
+      "stack": "container",
+      "env": {
+       "limitCount": {
+       "description": "idk",
+       "value": "10",
+       "required": true
+     },
+       "ownerNumber": {
+       "description": "nomor wa",
+       "value": "",
+       "required": true
+
